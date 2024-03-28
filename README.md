@@ -1,7 +1,7 @@
 # bashbox
 Bashbox is a set of helpful bash script.
 
-As for March 24, only the update.sh script is there.
+March 24, only the update.sh script is there.
 
 __update.sh__
 This script simply handle the entire process of the daily (or more) routien of updating an Ubuntu Linux desktop.
