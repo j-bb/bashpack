@@ -1,4 +1,4 @@
-# bashbox
+# bashpack
 Bashbox is a set of helpful bash script.  
   
 March 24, only the update.sh script is there.  
